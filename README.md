@@ -300,13 +300,5 @@ http://localhost:3000
 | `npm run dev` | Inicia a API com nodemon. |
 | `npm run seed` | Limpa e popula o banco com dados de teste, alem de criar indices. |
 
-## Historico de commits sugerido
 
-O projeto foi organizado para manter um historico de commits separado por etapa:
 
-1. `feat: configurar servidor express e conexao com mongodb`
-2. `feat: implementar camada generica de crud`
-3. `feat: adicionar crud das collections da clinica`
-4. `feat: criar relatorios com aggregation framework`
-5. `feat: adicionar seed com dados de teste e indices`
-6. `docs: documentar modelagem e instrucoes do projeto`

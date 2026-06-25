@@ -260,20 +260,6 @@ Codigos HTTP usados:
 - `404`: rota ou registro nao encontrado.
 - `500`: erro interno no servidor.
 
-## Configuracao
-
-Crie um arquivo `.env` na raiz do projeto com base no `.env.example`.
-
-```env
-PORT=3000
-MONGO_URI=mongodb://localhost:27017
-DATABASE_NAME=clinica_medica
-```
-
-Para MongoDB Atlas, substitua `MONGO_URI` pela string de conexao do cluster.
-
-O arquivo `.env` nao deve ser enviado para o GitHub.
-
 ## Instalacao e execucao
 
 Instale as dependencias:

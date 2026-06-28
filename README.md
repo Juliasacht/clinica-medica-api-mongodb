@@ -33,6 +33,13 @@ O dominio escolhido foi uma clinica medica, com controle de pacientes, medicos, 
 
 O projeto utiliza 4 collections principais.
 
+O script de seed popula o banco com quantidade suficiente para testes e agregacoes:
+
+- 30 pacientes
+- 30 medicos
+- 30 especialidades
+- 90 consultas
+
 ### pacientes
 
 Armazena os dados cadastrais dos pacientes.
